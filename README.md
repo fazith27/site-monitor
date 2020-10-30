@@ -31,4 +31,4 @@ java -jar <jarfile_name_along_with_path>
 ## Accessing the app
 ```http://localhost:8080```
 
-![](https://github.com/[username]/[reponame]/blob/[branch]/image.png?raw=true)
+![](https://github.com/fazith27/site-monitor/blob/main/image.png)
